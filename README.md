@@ -12,5 +12,5 @@ Searchable, playable chord reference. Each chord is shown on a keyboard and link
 <sub>React · TypeScript · Tone.js</sub>
 
 **[Morsel](https://morsel.yixuanchen.org)**<br>
-Private food journal: take the HERB Food ID quiz, stamp meals with photos, and watch a personal taste map fill in. No social feed.<br>
+Private food journal: take the HERB Food ID quiz, stamp meals with photos, and watch a personal taste map fill in.<br>
 <sub>React · TypeScript · Supabase · D3</sub>
